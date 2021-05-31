@@ -9,7 +9,7 @@ In this assignment, a bits to bits OFDM system is simulated and the performance 
 
 
 
-- [Problem statement](https://drive.google.com/file/d/1xsRpaC-CvVn1NWNDqieZTxPUsDYt3H05/view?usp=sharing)
+- [Problem statement](https://drive.google.com/file/d/1xsRpaC-CvVn1NWNDqieZTxPUsDYt3H05/view?usp=sharing)  
 - [Report outline](https://drive.google.com/file/d/1tUAnCLgcfeZDdLT6tbHtJJ7GxPTbk7DQ/view?usp=sharing)
 
 

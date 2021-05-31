@@ -10,7 +10,7 @@ This assignment involves the simulation of a bits to bits communication system i
 
 ## Contents
 
-- **```OFDM_ideal.m```**: A MATLAB script that simulates a bits to bits OFDM system. Even though the problem statement does not require that OFDM be implemented, this is done as it does not affect the results (FFT/IFFT does not affect Gaussian noise). The output is a plot of BER vs Eb by N0 for 4, 16, 64 and 256 QAM.
+- **```OFDM_ideal.m```**: A MATLAB script that simulates a bits to bits OFDM system. Even though the problem statement does not require that OFDM be implemented, this is done as it does not affect the results (FFT/IFFT does not affect Gaussian noise). The output is a plot of BER vs Eb/N0 for 4, 16, 64 and 256 QAM.
 
 ## Useful resources
 
